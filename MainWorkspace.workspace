@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="MainWorkspace" Database="" Version="10000">
   <Project Name="Project2" Path="Project2/Project2.project" Active="No"/>
-  <Project Name="FirstProgram" Path="FirstProgram/FirstProgram.project" Active="Yes"/>
+  <Project Name="FirstProgram" Path="FirstProgram/FirstProgram.project" Active="No"/>
+  <Project Name="Challange1" Path="Challange1/Challange1.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -9,6 +10,7 @@
       <Project Name="Project2" ConfigName="Debug"/>
       <Project Name="Project2" ConfigName="Debug"/>
       <Project Name="FirstProgram" ConfigName="Debug"/>
+      <Project Name="Challange1" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -16,6 +18,7 @@
       <Project Name="Project2" ConfigName="Release"/>
       <Project Name="Project2" ConfigName="Release"/>
       <Project Name="FirstProgram" ConfigName="Release"/>
+      <Project Name="Challange1" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
