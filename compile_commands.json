@@ -1,5 +1,9 @@
 [{
-  "file": "C:\\Users\\EBamidele\\Documents\\CPP\\MainWorkspace\\Project1\\main.cpp",
-  "directory": "C:\\Users\\EBamidele\\Documents\\CPP\\MainWorkspace\\Project1",
-  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\EBamidele\\Documents\\CPP\\MainWorkspace\\Project1\\main.cpp -o C:\\Users\\EBamidele\\Documents\\CPP\\MainWorkspace\\Project1\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\MinGW\\lib\\gcc\\x86_64-w64-mingw32\\8.1.0\\include\\c++ -IC:\\MinGW\\lib\\gcc\\x86_64-w64-mingw32\\8.1.0\\include\\c++\\x86_64-w64-mingw32 -IC:\\MinGW\\lib\\gcc\\x86_64-w64-mingw32\\8.1.0\\include\\c++\\backward -IC:\\MinGW\\lib\\gcc\\x86_64-w64-mingw32\\8.1.0\\include -IC:\\MinGW\\lib\\gcc\\x86_64-w64-mingw32\\8.1.0\\include-fixed -IC:\\MinGW\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+  "file": "C:\\Users\\EBamidele\\Documents\\CPP\\MainWorkspace\\FirstProgram\\main.cpp",
+  "directory": "C:\\Users\\EBamidele\\Documents\\CPP\\MainWorkspace\\FirstProgram",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\EBamidele\\Documents\\CPP\\MainWorkspace\\FirstProgram\\main.cpp -o C:\\Users\\EBamidele\\Documents\\CPP\\MainWorkspace\\FirstProgram\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\MinGW\\lib\\gcc\\x86_64-w64-mingw32\\8.1.0\\include\\c++ -IC:\\MinGW\\lib\\gcc\\x86_64-w64-mingw32\\8.1.0\\include\\c++\\x86_64-w64-mingw32 -IC:\\MinGW\\lib\\gcc\\x86_64-w64-mingw32\\8.1.0\\include\\c++\\backward -IC:\\MinGW\\lib\\gcc\\x86_64-w64-mingw32\\8.1.0\\include -IC:\\MinGW\\lib\\gcc\\x86_64-w64-mingw32\\8.1.0\\include-fixed -IC:\\MinGW\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\EBamidele\\Documents\\CPP\\MainWorkspace\\Project2\\main.cpp",
+  "directory": "C:\\Users\\EBamidele\\Documents\\CPP\\MainWorkspace\\Project2",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\EBamidele\\Documents\\CPP\\MainWorkspace\\Project2\\main.cpp -o C:\\Users\\EBamidele\\Documents\\CPP\\MainWorkspace\\Project2\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\MinGW\\lib\\gcc\\x86_64-w64-mingw32\\8.1.0\\include\\c++ -IC:\\MinGW\\lib\\gcc\\x86_64-w64-mingw32\\8.1.0\\include\\c++\\x86_64-w64-mingw32 -IC:\\MinGW\\lib\\gcc\\x86_64-w64-mingw32\\8.1.0\\include\\c++\\backward -IC:\\MinGW\\lib\\gcc\\x86_64-w64-mingw32\\8.1.0\\include -IC:\\MinGW\\lib\\gcc\\x86_64-w64-mingw32\\8.1.0\\include-fixed -IC:\\MinGW\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
  }]
